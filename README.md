@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on raylib_zero
 
 ``` c++
-class Marshroom
+class Astro
 {
 public:
     std::vector<std::string> langs = {
